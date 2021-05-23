@@ -24,7 +24,7 @@
 </div>
 <h2 align="center">💖  𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! 👨‍🦯 💖</h2>
 <div align="center">
-<img src="https://thumbs.gfycat.com/BareEarlyCanadagoose-size_restricted.gif" width=200 hight=400>
+<img src="https://thumbs.gfycat.com/BareEarlyCanadagoose-size_restricted.gif" width=800 hight=400>
 </div>
 <hr>
 </div>
