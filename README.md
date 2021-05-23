@@ -2,7 +2,7 @@
 <h1 align="center">💖 ♢🥺♢ 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 ♢🥺♢ 💖</h1>
 <br>
 <div align="center">
-<img src="https://64.media.tumblr.com/5e4e859c487472985b2a3e398ac2a13b/tumblr_inline_oy6i6wEruH1qj3xt8_540.gif">
+<img src="https://data.whicdn.com/images/203028441/original.gif">
 </div>
 <br>
 <div>
