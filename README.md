@@ -9,16 +9,16 @@
 <h2 align="center"> 🦊 ♢ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ♢ 🦊 </h2>
 <img src="https://media.tenor.com/images/93050f7326ce464ac09af37962bd9d81/tenor.gif" align="right" height=210>
 <li>
-<b>😈 Name:</b> Just call me Ⱨ₳₵₭ɆⱤ :)</li>
+<b>😈 Name ></b> Just call me Ⱨ₳₵₭ɆⱤ :)</li>
 <b>🥱 My_WhatsApp:</b> +254738200067 OR +919717135843 </li>
 <li> 
-<b>🩸 Loves:</b> You! & Donuts 😚 COLD Coffee :')
+<b>🩸 Loves ></b> You! & Donuts 😚 COLD Coffee :')
 </li>
 <li>
-<b>💁‍♂️ Gender:</b> Male :D
+<b>💁‍♂️ Gender ></b> Male :D
 </li>
 <li>
-<b>👨‍💻 Profession:</b> Ethical Hacker | Pentester | CTF player at HTB | VAPT Professional
+<b>👨‍💻 Profession ></b> Ethical Hacker | Pentester | CTF player at HTB | VAPT Professional
 </li>
 <br>
 </div>
