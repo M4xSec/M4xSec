@@ -12,7 +12,7 @@
 <b>😈 Name:</b> Just call me Ⱨ₳₵₭ɆⱤ :)</li>
 <b>🥱 My_WhatsApp:</b> +254738200067 OR +919717135843 </li>
 <li> 
-<b>🩸 Loves:</b> You! & Donuts 😚 COLD Coffee :') -///-
+<b>🩸 Loves:</b> You! & Donuts 😚 COLD Coffee :')
 </li>
 <li>
 <b>💁‍♂️ Gender:</b> Male :D
@@ -24,7 +24,7 @@
 </div>
 <h2 align="center">💖  𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! 👨‍🦯 💖</h2>
 <div align="center">
-<img src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif">
+<img src="https://thumbs.gfycat.com/BareEarlyCanadagoose-size_restricted.gif" width=200 hight=400>
 </div>
 <hr>
 </div>
