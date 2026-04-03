@@ -66,7 +66,7 @@ Advance OTP Bypass Tool with Termux Support.
 <td width="50%">
 
 ### 📚 [React2Shell (CVE-2025-55182)](https://github.com/M4xSec/CVE-2025-55182-React2Shell-RCE-Shell)
-**Code snippets for Offensive Security's PEN-300**  
+**Remote Code Execution (RCE) exploit for Next.js apps. +Interactive shell prompt support**  
 ⚡ x | 🍴 x
 
 Remote Code Execution (RCE) exploit for Next.js apps +Interactive Shell Prompt
