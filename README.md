@@ -85,7 +85,7 @@ Apache APISIX Remote Code Execution (CVE-2022-24112) proof of concept exploit
 </table>
 
 
-## ⚡ Stats
+## ⚡ Stats ⚡
 
 <div align="center">
 
