@@ -12,14 +12,24 @@
 
 Busy Hunting 0-Days 🕸️ Custom Tooling 🕸️ Automation  **Python** • **C/C++** • **Bash** • **PowerShell** • **Go**
 
-<a href="https://krsecurity.net"><img src="https://img.shields.io/badge/🌐_Website-casvancooten.com-success?style=for-the-badge" alt="Website" /></a>
-<a href="https://uk.linkedin.com/in/venexy"><img src="https://img.shields.io/badge/Twitter-@chvancooten-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Linkedin" /></a>
+<!-- Website Badge -->
+<a href="https://krsecurity.net">
+  <img src="https://img.shields.io/badge/🌐_Website-krsecurity.net-success?style=for-the-badge&logo=web&logoColor=white" alt="Website" />
+</a>
 
-</div>
+<!-- LinkedIn Badge -->
+<a href="https://uk.linkedin.com/in/venexy">
+  <img src="https://img.shields.io/badge/LinkedIn-venexy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<!-- Instagram Badge -->
+<a href="https://www.instagram.com/venexyyy/">
+  <img src="https://img.shields.io/badge/Instagram-venexyyy-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
 
 ---
 
-## About Me
+## ♦️ About Me
 
 Cybersecurity & Offensive Security Specialist with 5+ years of hands-on expertise in advanced Web Application Penetration Testing, API Security Assessments, Red Team Operations, Network Penetration Testing, Cloud Security, Mobile Security, and AI/LLM Security Audits. Adept at producing highly detailed, executive-ready technical reports for critical vulnerabilities.
 
@@ -75,57 +85,12 @@ Apache APISIX Remote Code Execution (CVE-2022-24112) proof of concept exploit
 </table>
 
 
-## ✪ Stats
+## ⚡ Stats
 
 <div align="center">
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=M4xSec&theme=react-dark&hide_border=true&area=true)
 
 </div>
-
-## 🕷️ Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎯 [BugDog](https://github.com/M4xSec/BugDog)
-**Powerfull BUG HUNTING TOOL**
-⭐ 57 stars | 🍴 10 forks
-
-A Powerfull BUG HUNTING TOOL. Supports SQL, XSS, PHP code execution, SSRF... +Custom Payloads.
-
-</td>
-<td width="50%">
-
-### 🎓 [K-OTP-X](https://github.com/M4xSec/K-OTP-X)
-**Advance OTP Bypass Tool | Termux Supported**
-⭐ 116 stars | 🍴 21 forks
-
-Advance OTP Bypass Tool with Termux Support.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📚 [React2Shell (CVE-2025-55182)](https://github.com/M4xSec/CVE-2025-55182-React2Shell-RCE-Shell)
-**Code snippets for Offensive Security's PEN-300**  
-⚡ x | 🍴 x
-
-Remote Code Execution (RCE) exploit for Next.js apps +Interactive Shell Prompt
-
-</td>
-<td width="50%">
-
-### 🔍 [Apache APISIX (CVE-2022-24112)](https://github.com/M4xSec/Apache-APISIX-CVE-2022-24112)
-**Exploit code for Apache APISIX Remote Code Execution (CVE-2022-24112)**
-⚡ x | 🍴 x
-
-Apache APISIX Remote Code Execution (CVE-2022-24112) proof of concept exploit
-
-</td>
-</tr>
-</table>
 
 </body>
