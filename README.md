@@ -33,9 +33,9 @@ Busy Hunting 0-Days 🕸️ Custom Tooling 🕸️ Automation  **Python** • **
 
 Cybersecurity & Offensive Security Specialist with 5+ years of hands-on expertise in advanced Web Application Penetration Testing, API Security Assessments, Red Team Operations, Network Penetration Testing, Cloud Security, Mobile Security, and AI/LLM Security Audits. Adept at producing highly detailed, executive-ready technical reports for critical vulnerabilities.
 
-Extensively experienced in advanced evasion techniques, including AV/EDR bypasses, malicious development (MalDev), Command-and-Control (C2) server orchestration, and deployment of persistent backdoors. Skilled in leveraging both commercial and open-source offensive security tools
+Extensively experienced in advanced evasion techniques, including AV/EDR bypasses, malware development (MalDev), Command-and-Control (C2) server orchestration, and deployment of persistent backdoors. Skilled in leveraging both commercial and open-source offensive security tools
 
-Certified in OSWE, OSEP, OSCP, CPTS, CRTO, CRTE, CRTP, EWTX, C|EH etc...
+Industry Leading Certifications Holder: OSWE, OSEP, OSCP, CPTS, CRTO, CRTE, CRTP, EWTX, C|EH etc...
 
 ---
 
