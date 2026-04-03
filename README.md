@@ -69,7 +69,7 @@ Advance OTP Bypass Tool with Termux Support.
 **Remote Code Execution (RCE) exploit for Next.js apps. +Interactive shell prompt support**  
 ⚡ x | 🍴 x
 
-Remote Code Execution (RCE) exploit for Next.js apps +Interactive Shell Prompt
+CVE-2025-55182 – React2Shell: Proof-of-Concept Remote Code Execution (RCE) exploit for Next.js apps. Features an interactive shell prompt to test and demonstrate the vulnerability in real time.
 
 </td>
 <td width="50%">
