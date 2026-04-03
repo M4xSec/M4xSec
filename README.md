@@ -8,7 +8,7 @@
 
 ## 🕷️ $./Whoami ️
 
-### Red Team Specialist • Senior Penetration Tester • [krsecurity](https://krsecurity.net) 
+### Red Team Specialist • Senior Penetration Tester • Bug Bounty Hunter • KRSEC [krsecurity](https://krsecurity.net) 
 
 Busy Hunting 0-Days 🕸️ Custom Tooling 🕸️ Automation  **Python** • **C/C++** • **Bash** • **PowerShell** • **Go**
 
