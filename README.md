@@ -4,6 +4,77 @@
 <img src="https://i.pinimg.com/originals/7a/e6/62/7ae662bc4c4ff1d860710fc1152a361f.gif" width=710 hight=780>
 </div>
 
+<div align="center">
+
+## 🕷️ $./Whoami ️
+
+### Red Team Specialist • Penetration Tester • [krsecurity](https://krsecurity.net)
+
+Busy Hunting 0-Days 🕸️ Custom Tooling 🕸️ Automation  **Python** • **C/C++** • **Bash** • **PowerShell** • **Go**
+
+<a href="https://krsecurity.net"><img src="https://img.shields.io/badge/🌐_Website-casvancooten.com-success?style=for-the-badge" alt="Website" /></a>
+<a href="https://uk.linkedin.com/in/venexy"><img src="https://img.shields.io/badge/Twitter-@chvancooten-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Linkedin" /></a>
+
+</div>
+
+---
+
+## About Me
+
+Cybersecurity & Offensive Security Specialist with 5+ years of hands-on expertise in advanced Web Application Penetration Testing, API Security Assessments, Red Team Operations, Network Penetration Testing, Cloud Security, Mobile Security, and AI/LLM Security Audits. Adept at producing highly detailed, executive-ready technical reports for critical vulnerabilities.
+
+Extensively experienced in advanced evasion techniques, including AV/EDR bypasses, malicious development (MalDev), Command-and-Control (C2) server orchestration, and deployment of persistent backdoors. Skilled in leveraging both commercial and open-source offensive security tools
+
+Certified in OSWE, OSEP, OSCP, CPTS, CRTO, CRTE, CRTP, EWTX, C|EH etc...
+
+---
+
+## 🕷️ Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 [BugDog](https://github.com/M4xSec/BugDog)
+**Powerfull BUG HUNTING TOOL**
+⭐ 57 stars | 🍴 10 forks
+
+A Powerfull BUG HUNTING TOOL. Supports SQL, XSS, PHP code execution, SSRF... +Custom Payloads.
+
+</td>
+<td width="50%">
+
+### 🎓 [K-OTP-X](https://github.com/M4xSec/K-OTP-X)
+**Advance OTP Bypass Tool | Termux Supported**
+⭐ 116 stars | 🍴 21 forks
+
+Advance OTP Bypass Tool with Termux Support.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📚 [React2Shell (CVE-2025-55182)](https://github.com/M4xSec/CVE-2025-55182-React2Shell-RCE-Shell)
+**Code snippets for Offensive Security's PEN-300**  
+⚡ x | 🍴 x
+
+Remote Code Execution (RCE) exploit for Next.js apps +Interactive Shell Prompt
+
+</td>
+<td width="50%">
+
+### 🔍 [Apache APISIX (CVE-2022-24112)](https://github.com/M4xSec/Apache-APISIX-CVE-2022-24112)
+**Exploit code for Apache APISIX Remote Code Execution (CVE-2022-24112)**
+⚡ x | 🍴 x
+
+Apache APISIX Remote Code Execution (CVE-2022-24112) proof of concept exploit
+
+</td>
+</tr>
+</table>
+
+
 ## ✪ Stats
 
 <div align="center">
