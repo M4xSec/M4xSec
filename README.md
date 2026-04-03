@@ -55,7 +55,7 @@ A Powerfull BUG HUNTING TOOL. Supports SQL, XSS, PHP code execution, SSRF... +Cu
 <td width="50%">
 
 ### 🎓 [K-OTP-X](https://github.com/M4xSec/K-OTP-X)
-**Advance OTP Bypass Tool | Termux Supported**
+**Advance OTP Bypass Tool**
 ⭐ 116 stars | 🍴 21 forks
 
 Advance OTP Bypass Tool with Termux Support.
