@@ -35,7 +35,7 @@ Cybersecurity & Offensive Security Specialist with 6+ years of hands-on expertis
 
 Extensively experienced in advanced evasion techniques, including AV/EDR bypasses, malware development (MalDev), Command-and-Control (C2) server orchestration, and deployment of persistent backdoors. Skilled in leveraging both commercial and open-source offensive security tools
 
-Industry Leading Certifications Holder: OSWE, OSEP, OSCP, CPTS, CRTO, CRTE, CRTP, EWTX, C|EH etc...
+Industry Leading Certifications Holder: OSWE, OSEP, OSCP, CPTS, CRTL, CRTO, CRTE, CRTP, BSCP, EWTX, CRTA, C|EH etc...
 
 ---
 
