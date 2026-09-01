@@ -29,7 +29,7 @@ Busy Hunting 0-Days 🕸️ Custom Tooling 🕸️ Automation  **Python** • **
   <img src="https://img.shields.io/badge/Instagram-venexyyy-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
----
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 ## ♦️ About Me
 
@@ -39,7 +39,7 @@ Extensively experienced in advanced evasion techniques, including AV/EDR bypasse
 
 Industry Leading Certifications Holder: OSWE, OSEP, OSCP, CPTS, CRTL, CRTO, CRTE, CRTP, BSCP, EWTX, CRTA, C|EH etc...
 
----
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 ## 🕷️ Featured Projects
 
