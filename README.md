@@ -8,7 +8,7 @@
 
 <div align="center">
 
-## 🕷️ $./Whoami ️
+## 🕷️ Whoami ️
 
 ### Red Team Specialist • Senior Penetration Tester • Bug Bounty Hunter • [krsecurity](https://krsecurity.net) 
 
